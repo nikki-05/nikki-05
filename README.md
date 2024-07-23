@@ -26,10 +26,9 @@
 - [![Coding Ninjas](https://example.com/path/to/coding-ninjas-logo.png)](https://www.naukri.com/code360/profile/Nikki_81) 
 - [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6a/HackerRank_logo.png)](https://www.hackerrank.com/profile/tewarinikita1008)
 
-     _________
-   /           \
-  |    o   o    |  "Believe in yourself
-  |     \_/     |   and all that you are."
-   \___________/
- Byeeee!!! 
+ 
+   "Believe in yourself
+   and all that you are."
+  
+   Byeeee!!! 
 
