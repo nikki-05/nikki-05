@@ -21,10 +21,10 @@
 
 
 ## 📫 Contact Me
-- [![LinkedIn](https://www.linkedin.com/in/nikita-tewari-56999b249/)
-- [![LeetCode](https://leetcode.com/u/Nikita1822/)
-- [![Code 360](https://www.naukri.com/code360/profile/Nikki_81)
-- [![HackerRank](https://www.hackerrank.com/profile/tewarinikita1008)
+- ![LinkedIn](https://www.linkedin.com/in/nikita-tewari-56999b249/)
+- ![LeetCode](https://leetcode.com/u/Nikita1822/)
+- ![Code 360](https://www.naukri.com/code360/profile/Nikki_81)
+- ![HackerRank](https://www.hackerrank.com/profile/tewarinikita1008)
 
  "Believe in yourself and all that you are."
   
