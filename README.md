@@ -18,14 +18,15 @@
 - **Frameworks**: React, Node.js
 - **Tools**: Git
 - **Other**: Web Development, Open Source Contributions
-  ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;>
 <img src= "https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png(https://gssoc.girlscript.tech/badges/1.png?imwidth=96)" width="100px" height="100px" />
-  <img src="[https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png](https://gssoc.girlscript.tech/badges/2.png?imwidth=96)" width="100px" height="100px" />
-  <img src="[https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png](https://gssoc.girlscript.tech/badges/3.png?imwidth=96)" width="100px" height="100px" />
-  <img src="[https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png](https://gssoc.girlscript.tech/badges/4.png?imwidth=96)" width="100px" height="100px" />
-  <img src="[https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png](https://gssoc.girlscript.tech/badges/5.png?imwidth=96)" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
 
 ## Profiles
