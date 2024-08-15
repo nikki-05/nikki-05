@@ -1,14 +1,6 @@
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" alt="Alt text" width="500" height="500" style="margin-right: 20px;">
-  <div>
-    <p>🌟 Radhe Radhe 🌟</p>
-    <p>💫🌟</p>
-    <p> "Within you is the light of a thousand suns."</p>
-  </div>
-</div>
-
-
+🌟 Radhe Radhe 🌟
+ # "Within you is the light of a thousand suns."
+<img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" alt="Alt text" width="500" height="500">
 
 # Hi there, I'm Nikita Tiwari 👋
 
