@@ -2,7 +2,7 @@
 🌟 Radhe Radhe 🌟
 💫🌟
  # "Within you is the light of a thousand suns."
- ![Description](https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?t=st=1723704899~exp=1723708499~hmac=32dbe5cab591bb4906af8f8e263f9982478437a4dfc5645cc51a698e4488622a&w=740)
+ ![Description][(https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?t=st=1723704899~exp=1723708499~hmac=32dbe5cab591bb4906af8f8e263f9982478437a4dfc5645cc51a698e4488622a&w=740)](https://www.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_11879298.htm#fromView=search&page=1&position=13&uuid=49cc7ee0-07b3-43d6-87af-6ead690059cb)
 
 
 # Hi there, I'm Nikita Tiwari 👋
