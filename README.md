@@ -2,7 +2,7 @@
 🌟 Radhe Radhe 🌟
 💫🌟
  # "Within you is the light of a thousand suns."
-![Young Woman Working](https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?t=st=1723705040~exp=1723708640~hmac=85b4dcc05dac52a258ed25aff1cd387262a51eb44a48ef236bc9f74f9be380ea&w=740)
+![Young Woman Working](https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png)
 
 
 # Hi there, I'm Nikita Tiwari 👋
