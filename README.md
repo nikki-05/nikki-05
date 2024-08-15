@@ -3,6 +3,7 @@
 💫🌟
  # "Within you is the light of a thousand suns."
                                               - Bhagavad Gita 10.20
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 # Hi there, I'm Nikita Tiwari 👋
