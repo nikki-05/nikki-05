@@ -2,9 +2,7 @@
 🌟 Radhe Radhe 🌟
 💫🌟
  # "Within you is the light of a thousand suns."
-![Description](https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?t=st=1723704899~exp=1723708499~hmac=32dbe5cab591bb4906af8f8e263f9982478437a4dfc5645cc51a698e4488622a&w=740)
-
-
+![Young Woman Working](https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?t=st=1723705040~exp=1723708640~hmac=85b4dcc05dac52a258ed25aff1cd387262a51eb44a48ef236bc9f74f9be380ea&w=740)
 
 
 # Hi there, I'm Nikita Tiwari 👋
@@ -37,7 +35,7 @@
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/tewarinikita1008)
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/Nikki_81)
 
- "Believe in yourself and all that you are."
-  
- Byeeee!!! 
+ "Believe in yourself and all that you are."❤️
+ Image by [Freepik](https://www.freepik.com)
+
 
