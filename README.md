@@ -2,7 +2,7 @@
 🌟 Radhe Radhe 🌟
 💫🌟
  # "Within you is the light of a thousand suns."
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer GIF](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--programmer-working-website-people-animations-3817229.mp4)
 
 
 # Hi there, I'm Nikita Tiwari 👋
