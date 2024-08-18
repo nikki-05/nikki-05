@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love Reading Books and painting.
 
 ## 🛠️ My Skills
-- **Languages**:  Java
+- **Languages**:  Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - **Frameworks**: React, Node.js
 - **Tools**: Git
 - **Other**: Web Development, Open Source Contributions
