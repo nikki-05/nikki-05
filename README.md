@@ -34,8 +34,7 @@ Version Control and Tools🧩
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/Nikki_81)
 
 ## 📊GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" width="500" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" width="500" />
+<img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" width="500" />
 
 
 
