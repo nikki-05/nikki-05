@@ -33,6 +33,10 @@ Version Control and Tools🧩
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/tewarinikita1008)
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/Nikki_81)
 
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical)
+
+
  "Believe in yourself and all that you are."❤️
  Image by [Freepik](https://www.freepik.com)
 
