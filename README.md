@@ -33,7 +33,7 @@ Version Control and Tools🧩
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/Nikita1822/)
 [![HackerRank](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/profile/tewarinikita1008)
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/Nikki_81)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikitatewari16))
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikitatewari16)
 
 
 ## 📊GitHub Stats 
