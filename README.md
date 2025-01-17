@@ -1,5 +1,4 @@
 🌟 Radhe Radhe 🌟
- # "Within you is the light of a thousand suns."
 <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" alt="Alt text" width="500" height="500">
 
 # Hi there, I'm Nikita Tiwari 👋
@@ -8,6 +7,7 @@
 - 🔭 I’m currently pursuing a Bachelor of Technology in Computer Science and Engineering 
 - 👯 I want to collaborate on open-source projects, especially web development-related ones.
 - 📫 How to reach me: [nikitatewari1633@gmail.com]
+- I believe its never too late to start.. 
 
 
 ## 🛠️ Skills
