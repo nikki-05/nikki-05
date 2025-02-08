@@ -36,6 +36,8 @@ Version Control and Tools🧩
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/Nikki_81)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikitatewari16)
 
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikki-05)](https://github.com/nikki-05/github-profile-trophy)
 
 ## 📊GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" width="350" />
