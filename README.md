@@ -9,10 +9,6 @@ I'm <b>Nikita Tiwari</b>
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikki-05&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" alt="Developer Banner" width="450"/>
 </p>
 
