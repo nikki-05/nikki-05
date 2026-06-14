@@ -86,14 +86,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikki-05&theme=react-dark" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -154,28 +146,6 @@
 
 ---
 
-## ✨ Achievements
-
-🏅 GSSoC 2024 Contributor
-
-🏅 Open Source Enthusiast
-
-🏅 Frontend Development Enthusiast
-
-🏅 Automation Testing Learner
-
-🏅 AI & LLM Explorer
-
----
-
 <h3 align="center">
 💫 "Believe in yourself and all that you are."
-</h3>
-
-<h2 align="center">
-❤️ Thanks for visiting my profile ❤️
-</h2>
-
-<h3 align="center">
-🙏 Radhe Radhe 🙏
 </h3>
