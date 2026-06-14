@@ -1,43 +1,29 @@
-<h1 align="center">Hii! 👋,</h1>
-
-<h3 align="center">
-I'm <b>Nikita Tiwari</b>
-</h3>
-
-<h4 align="center">
-🚀 Developer | 🤖 AI Enthusiast | 🌍 Open Source Contributor
-</h4>
+# 🌟 Radhe Radhe 🌟
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" alt="Developer Banner" width="450"/>
+  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" width="400" alt="Developer Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm Nikita Tiwari</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;Open+Source+Contributor;Automation+%26+QA+Engineer;AI+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikki-05&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌱 About Me
 
-💻 Passionate about Full Stack Development, AI Applications, and Cloud Technologies
-
-🤖 Exploring Agentic AI, LLMs, RAG Systems
-
-🌱 Currently learning Advanced System Design, Cloud-Native Development, and Agentic AI
-
-🤝 Open to collaborating on Open Source and innovative AI-powered projects
-
-⚡ Fun Fact: Every expert was once a beginner — it's never too late to start.
-
-📫 Reach me: nikitatewari1633@gmail.com
-
----
-
-## 🔭 Current Focus
-
-- Building AI-powered applications
-- Exploring Agentic AI workflows
-- Creating RAG-based solutions
-- Learning AWS & Cloud Architecture
-- Contributing to Open Source
-- Strengthening DSA and Problem Solving
+- 🎓 Pursuing Bachelor of Technology in Computer Science & Engineering
+- 💻 Passionate about Frontend Development, Automation Testing & AI
+- 🤝 Looking to collaborate on Open Source Projects
+- 🚀 Exploring AI Agents, RAG, LLMs and Cloud Technologies
+- 📚 Constantly learning and building
+- ✨ I believe it's never too late to start
 
 ---
 
@@ -45,93 +31,49 @@ I'm <b>Nikita Tiwari</b>
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+### Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & GenAI
+### AI & Cloud
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-6E44FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-</p>
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E44FF?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### DevOps & Cloud
+### DevOps & Automation
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools & Version Control
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| AI Project | AI-powered application using LLMs | OpenAI, React, Node.js |
-| RAG Chatbot | Retrieval-Augmented Generation chatbot | RAG, LLMs |
-| Full Stack App | End-to-end web application | MERN Stack |
-| Open Source Contributions | Contributions across multiple repositories | Git, GitHub |
-
----
-
-## 🏅 GSSoC 2024 Achievements
-
-<div align="center">
-<a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px"/>
-</a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikki-05&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" width="37%">
 </p>
 
 ---
@@ -139,15 +81,15 @@ I'm <b>Nikita Tiwari</b>
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=radical" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikki-05&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikki-05&theme=react-dark" />
 </p>
 
 ---
@@ -155,10 +97,32 @@ I'm <b>Nikita Tiwari</b>
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/nikki-05/nikki-05/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-> Create a GitHub Action for the snake animation if you haven't already.
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikki-05&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌸 GSSoC 2024 Badges
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90" />
+
+</div>
 
 ---
 
@@ -167,47 +131,51 @@ I'm <b>Nikita Tiwari</b>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nikita-tewari-56999b249/">
-<img src="https://img.shields.io/badge/LinkedIn-Nikita%20Tiwari-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://leetcode.com/u/Nikita1822/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/tewarinikita1008">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://www.naukri.com/code360/profile/Nikki_81">
-<img src="https://img.shields.io/badge/Coding_Ninjas-Code360-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge" />
 </a>
 
 <a href="https://www.codechef.com/users/nikitatewari16">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 💭 Developer Philosophy
+## ✨ Achievements
 
-<div align="center">
+🏅 GSSoC 2024 Contributor
 
-### "Consistency beats intensity."
+🏅 Open Source Enthusiast
 
-Small improvements every day lead to extraordinary results.
+🏅 Frontend Development Enthusiast
 
-❤️ Believe in yourself and all that you are.
+🏅 Automation Testing Learner
 
-</div>
+🏅 AI & LLM Explorer
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile! Let's build something amazing together. ✨
-</p>
+<h3 align="center">
+💫 "Believe in yourself and all that you are."
+</h3>
 
-<p align="center">
-Image by <a href="https://www.freepik.com">Freepik</a>
-</p>
+<h2 align="center">
+❤️ Thanks for visiting my profile ❤️
+</h2>
+
+<h3 align="center">
+🙏 Radhe Radhe 🙏
+</h3>
