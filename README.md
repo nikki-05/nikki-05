@@ -1,4 +1,4 @@
-# 🌟 Radhe Radhe 🌟
+# 🌟Hey🌟
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" width="400" alt="Developer Banner">
@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;Open+Source+Contributor;Automation+%26+QA+Engineer;AI+Enthusiast;Always+Learning+New+Things+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikki-05&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 ---
 
