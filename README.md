@@ -6,20 +6,13 @@
 
 <h1 align="center">Hi 👋, I'm Nikita Tiwari</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;Open+Source+Contributor;Automation+%26+QA+Engineer;AI+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
-
-
 ---
 
 ## 🌱 About Me
-
-- 🎓 Pursuing Bachelor of Technology in Computer Science & Engineering
-- 💻 Passionate about Frontend Development, Automation Testing & AI
+- 💻 Passionate about Development & AI
 - 🤝 Looking to collaborate on Open Source Projects
 - 🚀 Exploring AI Agents, RAG, LLMs and Cloud Technologies
-- 📚 Constantly learning and building
+- 📚 Constantly learning
 - ✨ I believe it's never too late to start
 
 ---
