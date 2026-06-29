@@ -74,13 +74,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=radical" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 ---
 
