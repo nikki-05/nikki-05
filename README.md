@@ -85,7 +85,6 @@ I like projects that mix **creativity**, **logic**, **automation**, and **real-w
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
