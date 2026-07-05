@@ -78,17 +78,17 @@ I like projects that mix **creativity**, **logic**, **automation**, and **real-w
 ---
 
 ## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+---
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=nikki-05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 ---
 
 I believe the best way to grow is to **build in public**, stay consistent, and keep making slightly better things every week.
