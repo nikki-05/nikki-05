@@ -1,19 +1,25 @@
-# 🌟Hey🌟
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikki-05/nikki-05/main/developer.png" width="400" alt="Developer Banner">
-</p>
+# Hey, I'm Nikita 👋
 
-<h1 align="center">Hi 👋, I'm Nikita Tiwari</h1>
+### 🚀 Developer • Builder • Problem Solver • Lifelong Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&center=true&vCenter=true&width=700&lines=I+build+things+for+the+web.;I+craft+AI-powered+experiences.;I+turn+ideas+into+clean+code.;I+love+learning%2C+shipping%2C+and+improving." alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🌱 About Me
-- 💻 Passionate about Development & AI
-- 🤝 Looking to collaborate on Open Source Projects
-- 🚀 Exploring AI Agents, RAG, LLMs and Cloud Technologies
-- 📚 Constantly learning
-- ✨ I believe it's never too late to start
+## 🌟 About Me
+---
+
+I’m a curious developer who enjoys turning messy ideas into simple, useful, and beautiful digital experiences.  
+I like projects that mix **creativity**, **logic**, **automation**, and **real-world impact**.
+
+- 🔭 Currently working on: LLMs, RAG and Automation
+- 💬 Ask me about: **Backend, APIs, AI tools, cloud, and automation**
+- ⚡ Fun fact: **I like to Paint**
+- 🎯 Goal: Build projects that people actually enjoy using
 
 ---
 
@@ -59,77 +65,53 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🧪 What I Like Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=radical" width="37%">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=radical" />
-</p>
-
+| Area | What I Enjoy |
+|---|---|
+| ⚙️ Backend | REST APIs, services, integrations, automation |
+| 🤖 AI Tools | Claude, Codex, LLM apps, RAG workflows, AI agents, smart assistants |
+| ☁️ Cloud & DevOps | AWS, Docker, CI/CD, Jenkins pipelines |
+| 🧩 Open Source | Learning in public and contributing where I can |
+| 📦 Products | Small tools that solve real problems |
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikki-05&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 ---
 
-## GSSOC(24) Badges 🪶
-
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" alt="Postman Badge"/>
-  </a>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" alt="Badge 1"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" alt="Badge 2"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" alt="Badge 3"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" alt="Badge 4"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" alt="Badge 5"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" alt="Badge 6"/>
-</p>
+I believe the best way to grow is to **build in public**, stay consistent, and keep making slightly better things every week.
 
 ---
 
----
+## 🤝 Let’s Connect
 
-## 🌐 Connect With Me
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tewari-56999b249)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitatewari1633@gmail.com)
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/nikita-tewari-56999b249/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/Nikita1822/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/tewarinikita1008">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.naukri.com/code360/profile/Nikki_81">
-<img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge" />
-</a>
-
-<a href="https://www.codechef.com/users/nikitatewari16">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-💫 "Believe in yourself and all that you are."
-</h3>
+<div align="center">
+
+### ✨ "Code is a craft. Build with care, ship with courage." ✨
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+
+</div>
