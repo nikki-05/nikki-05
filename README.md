@@ -81,12 +81,12 @@ I like projects that mix **creativity**, **logic**, **automation**, and **real-w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikki-05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki-05&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikki-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -102,16 +102,13 @@ I believe the best way to grow is to **build in public**, stay consistent, and k
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-tewari-56999b249)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitatewari1633@gmail.com)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nikita1822/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nikitatewari16)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tewarinikita1008E)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Nikki_81)
 
 </div>
 
 ---
 
 <div align="center">
-
-### ✨ "Code is a craft. Build with care, ship with courage." ✨
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-
-</div>
